@@ -1,0 +1,2 @@
+# Parkinson's Analysis
+ This project was an analysis of a nano Data set for Parkinson's that represents the pre-formed data involving Parkinson's Disease and the predictory value of identifying how severe the illness is in a certain person. Our goal was to predict the level of Parkinson’s is in a certain person based on the given features. I collaborated with 2 other people in this project and one of the analyses I worked on was to investigate the existence of the relationship between the auditory function and the severity of Parkinson’s Disease.
